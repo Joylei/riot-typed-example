@@ -1,0 +1,31 @@
+{
+    "compilerOptions": {
+        "target": "es6",
+        "sourceMap": false,
+        "removeComments": false,
+        "module": "es6",
+        "emitDecoratorMetadata": true,
+        "experimentalDecorators": true,
+        "rootDir": "./"
+    },
+    "compileOnSave": false,
+    "buildOnSave": false,
+    "experimentalDecorators": true,
+    "filesGlob": [
+        "./tags/**.ts",
+        "./app.ts"
+    ],
+    "atom": {
+        "rewriteTsconfig": true,
+        "formatOnSave": true
+    },
+    "files": [
+        "./app.ts",
+        "./tags/app.ts",
+        "./tags/timer.ts",
+        "./typings/index.d.ts"
+    ],
+    "exclude": [
+        "node_modules"
+    ]
+}

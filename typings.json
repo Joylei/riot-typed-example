@@ -1,0 +1,6 @@
+{
+  "globalDevDependencies": {
+    "riot": "github:Joylei/riot-typed/src/riot.d.ts#19d6293052fe8882a155f4170d5dcd972464c096",
+    "riot-typed": "github:Joylei/riot-typed/src/riot-typed.d.ts#d7defbd95ccd1d30158f6e4d30f753deadd44505"
+  }
+}
